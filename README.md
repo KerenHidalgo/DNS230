@@ -5,5 +5,8 @@ Je m'appelle Keren Hidalgo et je suis étudiante en première année au baccalau
 
 --------------------------------------------------------------------------------------------
 Projet_1_MakeCode - Détecteur d'obstacles
-----------
+-----------------------------------------
+Pour mon projet de prototypage, j'ai voulu créer un dispositif qui pourrait aider les personnes aveugles ou malvoyantes à détecter des obstacles pendant leurs déplacements. Mon idée était d'intégrer un senseur de mouvement au bord d'un bâton de mobilité, utilisé par ces personnes pour repérer les obstacles sur leur chemin. J'ai programmé le circuit avec MakeCode pour que, lorsque le bâton est secoué, un son se déclenche. J'ai aussi ajouté une animation lumineuse qui s'active pendant 500 millisecondes avant que les lumières s'éteignent. L'objectif est que quand le bâton cogne un obstacle, le mouvement déclenche le son et donne une information à la personne qui l'utilise. 
+
+
 
