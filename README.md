@@ -24,3 +24,10 @@ Projet_3_Arduino - Poêle lumineuse
 Pour mon troisième projet de prototypage, j'ai voulu programmer mon Circuit Playground Express dans le but de créer un dispositif qui pourrait être utilisé dans des jeux de cuisine pour les enfants. Mon idée était de simuler le chauffage d'une poêle afin de rendre le jeu plus interactif. Lorsque la poêle est en mouvement, les lumières du circuit s'allument en orange pour représenter la chaleur produite pendant la cuissons des aliments. Quand la poêle devient immobile, les lumières s'éteignent pour indiquer qu'elle ne chauffe plus.
 
 Pour réaliser ce projet, j'ai utilisé Arduino et programmé les axes en X et Y du senseur de mouvement pour détecter les mouvements du circuit. Selon les valeurs détectées, le code permet d'allumer les lumières orange ou de les éteindre. Ce projet m'a permis de mieux comprendre comment utiliser les axes X et Y pour détecter les mouvements et comment les intégrer dans le Circuit Playground Express.
+
+--------------------------------------------------------------------------------------------
+Projet_4_Etextiles - Tissu interactif
+-------------------------------------
+Pour mon quatrième projet de prototypage, j'ai créer un tissus interactif qui s'illumine et fait un son quand on touche certaines parties du tissu. Pour réaliser ce projet, j'ai cousu mon Circuit Playground Express sur un tissus à l'aide de fil conducteur. J'ai ensuite créé un motif avec le fil conducteur en le reliant aux côtés tactiles du circuit (A1,A3,A4, et A6). J'ai utilisé le code Arduino qui nous avait été donné en classe sur les e-textiles et je l'ai intégré à mon Circuit Playground Express. Donc, lorsque je touche les extrémités du fil conducteur sur le tissu, une lumière d'une couleur d'une couleur différente s'allume et un son se déclenche selon la zone qui à été touchée.
+
+Ce projet m'a permis de mieux comprendre comment utiliser les côtés tactiles du Circuit Playground Express et comment le fil conducteur peut être intégré à un tissu pour créer une action.
