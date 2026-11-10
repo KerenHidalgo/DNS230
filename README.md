@@ -19,4 +19,6 @@ Pour réaliser ce projet, j'ai utilisé la fonction « if/else » afin de progra
 
 --------------------------------------------------------------------------------------------
 
-Projet_3_Arduino - 
+Projet_3_Arduino - Poêle lumineuse
+----------------------------------
+
