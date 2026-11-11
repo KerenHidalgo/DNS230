@@ -15,7 +15,7 @@ Projet_2_MadeCode - Indicateur de verdict
 -----------------------------------------
 Pour mon deuxième projet de prototypage, j'ai voulu créer un dispositif qui pourrait être utile lors de séances de débats entre des clubs de débats ou de questionnaires. L'idée serait de permettre au jury d'indiquer si une réponse est correcte ou incorrecte sans devoir toujours utiliser sa voix. J'ai programmé le circuit avec MakeCode pour que le bouton A permette de signaler une bonne réponse en déclenchant une lumière verte accompagnée d'une mélodie. Au contraire, le bouton B permet de signaler une mauvaise réponse en déclenchant une lumière rouge, également accompagnée d'une mélodie.
 
-Pour réaliser ce projet, j'ai utilisé la fonction « if/else » afin de programmer les deux possibilités selon le bouton utilisé. Cette programmation m'a permis de comprendre comment les conditions peut déclencher différentes réponses. 
+Pour réaliser ce projet, j'ai utilisé la fonction « if/else » afin de programmer les deux possibilités selon le bouton utilisé. Cette programmation m'a permis de comprendre comment les conditions peuvent déclencher différentes réponses. 
 
 --------------------------------------------------------------------------------------------
 
