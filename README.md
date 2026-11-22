@@ -31,3 +31,7 @@ Projet_4_Etextiles - Tissu interactif
 Pour mon quatrième projet de prototypage, j'ai créer un tissus interactif qui s'illumine et fait un son quand on touche certaines parties du tissu. Pour réaliser ce projet, j'ai cousu mon Circuit Playground Express sur un tissus à l'aide de fil conducteur. J'ai ensuite créé un motif avec le fil conducteur en le reliant aux côtés tactiles du circuit (A1,A3,A4, et A6). J'ai utilisé le code Arduino qui nous avait été donné en classe sur les e-textiles et je l'ai intégré à mon Circuit Playground Express. Donc, lorsque je touche les extrémités du fil conducteur sur le tissu, une lumière d'une couleur d'une couleur différente s'allume et un son se déclenche selon la zone qui à été touchée.
 
 Ce projet m'a permis de mieux comprendre comment utiliser les côtés tactiles du Circuit Playground Express et comment le fil conducteur peut être intégré à un tissu pour créer une action.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Projet_Final - Jellyfish
+---------------------------------------------------------------------------------------------
