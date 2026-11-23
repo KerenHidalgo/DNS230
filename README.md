@@ -63,9 +63,42 @@ Contribution: Recherche de codes qui pourraient permettre d'activer les lumière
 
 Expérimentations: Tester les différents niveau de vitesse que l'accéléromètre du CPX pouvait détecter.
 
+Observations: Programmer les lumières en fonction du type et de la vitesse des mouvements était beaucoup plus complexe que ce que je pensais.
+
 Apprentissages: J'ai découvert comment programmer l'accéléromètre pour qu'il puisse détecter la vitesse des mouvements et déclencher des actions en fonction de ceux-ci.
 
 ------------------------------------------------------------------------------------
+Semaine 4 - 5 novembre
+-----------------------
+Contribution: Recherche sur les différents types d'animations possible avec les DEL et choix des animations à utiliser ( statique, lente et rapide).
 
+Expérimentations: Tester les codes des animations trouvées et essayer de les adapter au CPX.
+
+Observations: Les codes trouvés ne fonctionnaient pas directement. Il fallait les modifier et les adapter davantage pour qu'ils soient compatibles avec le CPX.
+
+Apprentissages: J'ai découvert différentes bibliothèques permettant de créer des animations lumineuses et de varier les effets des DEL.
+
+------------------------------------------------------------------------------------
+Semaine 5 - 19 novembre
+------------------------
+Contribution: Création de la base qui servira à soutenir le système de câbles et à permettre la création d'une pochette protectrice pour le système.
+
+Expérimentations: Tester différentes dimensions pour la base afin qu'elles puisse entrer dans la pochette protectrice.
+
+Observations: La base doit être suffisamment petite pour ne pas bloquer les mouvements de la ballerine et lui permettre de bouger librement.
+
+Apprentissages: J'ai commencé à réfléchir à la façon d'installer et de fixer le système de câbles sur la base en carton.
+
+------------------------------------------------------------------------------------
+Semaine 6 - 26 novembre
+------------------------
+Contribution: Création du diagramme de type flowchart pour représenter le fonctionnement du projet Jellyfish.
+
+Expérimentations: Réfléchir à la séquence des opérations et à la façon de représenter les interactions entre les différentes composantes du système.
+
+Observations: Le diagramme m'a permis de mieux visualiser le fonctionnement de notre projet et les différentes étapes nécessaires à son fonctionnement.
+
+Apprentissages: J'ai appris à organiser et à représenter visuellement la logique 
+de fonctionnement de notre système, de l'entrée des données jusqu'aux résultats.
 
 
