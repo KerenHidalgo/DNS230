@@ -34,4 +34,38 @@ Ce projet m'a permis de mieux comprendre comment utiliser les côtés tactiles d
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Projet_Final - Jellyfish
----------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+Semaine 1 - 15 octobre
+------------------------
+Contribution: Brainstorming d'idées pour le projet. Une des idées que j'ai proposées était de créer des bracelets lumineux qui s'allument lorsqu'on applaudit.
+
+Expérimentations: Tester les différentes fonctions que le CPX peut offrir.
+
+Observations: J'ai réussi à activer les lumières en utilisant les fonctionnalités du CPX.
+
+Apprentissages: J'ai découvert les différentes façons d'activer ses lumières.
+
+------------------------------------------------------------------------------
+Semaine 2 - 22 octobre
+-----------------------
+Contribution: Réalisation de croquis pour représenter les différentes idées potentielles de notre projet.
+
+Expérimentations: Essayer de visualiser les idées des autres membres de l'équipe en les dessinant.
+
+Observations: Mon idée de bracelet lumineux ne demandait pas beaucoup de matériel, mais je ne la trouvais pas assez innovante comparé aux autres idées proposées par les membres de mon groupe.
+
+Apprentissages: J'ai commencé à explorer les possibilités de fonctions que l'ESP32 peut faire. Une questions qui me reste et de savoir quelles autres fonctions et possibilités cette carte peut m'offir.
+
+-----------------------------------------------------------------------------------
+Semaine 3 - 29 octobre
+-----------------------
+Contribution: Recherche de codes qui pourraient permettre d'activer les lumières en fonction des mouvements détectés par l'accéléromètre pour notre projet Jellyfish.
+
+Expérimentations: Tester les différents niveau de vitesse que l'accéléromètre du CPX pouvait détecter.
+
+Apprentissages: J'ai découvert comment programmer l'accéléromètre pour qu'il puisse détecter la vitesse des mouvements et déclencher des actions en fonction de ceux-ci.
+
+------------------------------------------------------------------------------------
+
+
+
